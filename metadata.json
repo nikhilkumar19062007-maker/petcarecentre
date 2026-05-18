@@ -1,0 +1,6 @@
+{
+  "name": "Shimla & Solan Pet Care Centre",
+  "description": "Compassionate Care for Your Pets in Shimla & Solan. Emergency & complete veterinary services with expert care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
